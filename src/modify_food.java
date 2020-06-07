@@ -44,9 +44,9 @@ public class modify_food extends javax.swing.JFrame {
         reset = new javax.swing.JButton();
         back = new javax.swing.JButton();
         next = new javax.swing.JButton();
-        jLabel5 = new javax.swing.JLabel();
-        jLabel6 = new javax.swing.JLabel();
-        jLabel8 = new javax.swing.JLabel();
+        jLabel5 =new javax.swing.JLabel();
+        jLabel6 =new javax.swing.JLabel();
+        jLabel8 =new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(null);
